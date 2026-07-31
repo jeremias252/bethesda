@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "titulo": "Criação",
+    "epoca": "Antes de 4000 a.C.",
+    "personagens": [
+      "Adão",
+      "Eva"
+    ],
+    "descricao": "Deus cria os céus, a terra e a humanidade, revelando Seu poder e propósito."
+  },
+  {
+    "id": 2,
+    "titulo": "Queda e promessa",
+    "epoca": "Depois da criação",
+    "personagens": [
+      "Adão",
+      "Eva"
+    ],
+    "descricao": "O pecado entra no mundo, mas Deus anuncia esperança e redenção."
+  },
+  {
+    "id": 3,
+    "titulo": "Dilúvio",
+    "epoca": "c. 2500 a.C.",
+    "personagens": [
+      "Noé"
+    ],
+    "descricao": "Deus preserva Noé e sua família, mostrando juízo e misericórdia."
+  },
+  {
+    "id": 4,
+    "titulo": "Chamado de Abraão",
+    "epoca": "c. 2000 a.C.",
+    "personagens": [
+      "Abraão",
+      "Sara"
+    ],
+    "descricao": "Deus chama Abraão para iniciar um povo separado para a Sua aliança."
+  },
+  {
+    "id": 5,
+    "titulo": "José no Egito",
+    "epoca": "c. 1900 a.C.",
+    "personagens": [
+      "José"
+    ],
+    "descricao": "Deus usa circunstâncias difíceis para preservar a família da promessa."
+  },
+  {
+    "id": 6,
+    "titulo": "Êxodo",
+    "epoca": "c. 1446 a.C.",
+    "personagens": [
+      "Moisés",
+      "Arão"
+    ],
+    "descricao": "Israel é libertado do Egito e recebe a Lei no Sinai."
+  },
+  {
+    "id": 7,
+    "titulo": "Conquista de Canaã",
+    "epoca": "c. 1400 a.C.",
+    "personagens": [
+      "Josué"
+    ],
+    "descricao": "O povo entra na terra prometida sob a liderança de Josué."
+  },
+  {
+    "id": 8,
+    "titulo": "Reinado de Davi",
+    "epoca": "c. 1010 a.C.",
+    "personagens": [
+      "Davi"
+    ],
+    "descricao": "Davi estabelece um reino segundo o coração de Deus."
+  },
+  {
+    "id": 9,
+    "titulo": "Exílio Babilônico",
+    "epoca": "c. 586 a.C.",
+    "personagens": [
+      "Daniel",
+      "Ezequiel"
+    ],
+    "descricao": "O povo enfrenta disciplina, mas Deus permanece soberano e fiel."
+  },
+  {
+    "id": 10,
+    "titulo": "Nascimento de Jesus",
+    "epoca": "c. 4 a.C.",
+    "personagens": [
+      "Maria",
+      "José",
+      "Jesus"
+    ],
+    "descricao": "O Verbo se faz carne e habita entre nós."
+  },
+  {
+    "id": 11,
+    "titulo": "Cruz e Ressurreição",
+    "epoca": "c. 30 d.C.",
+    "personagens": [
+      "Jesus"
+    ],
+    "descricao": "A obra redentora se completa na cruz e na ressurreição gloriosa."
+  },
+  {
+    "id": 12,
+    "titulo": "Pentecostes",
+    "epoca": "30 d.C.",
+    "personagens": [
+      "Pedro",
+      "João"
+    ],
+    "descricao": "O Espírito Santo capacita a Igreja para o testemunho."
+  },
+  {
+    "id": 13,
+    "titulo": "Conversão de Paulo",
+    "epoca": "c. 33-36 d.C.",
+    "personagens": [
+      "Paulo"
+    ],
+    "descricao": "Um perseguidor se torna missionário do evangelho."
+  },
+  {
+    "id": 14,
+    "titulo": "Missões da Igreja",
+    "epoca": "1º século",
+    "personagens": [
+      "Paulo",
+      "Barnabé",
+      "Silas"
+    ],
+    "descricao": "O evangelho se expande entre judeus e gentios."
+  },
+  {
+    "id": 15,
+    "titulo": "Esperança Final",
+    "epoca": "c. 95 d.C.",
+    "personagens": [
+      "João"
+    ],
+    "descricao": "A revelação mostra a vitória de Cristo e a nova criação."
+  }
+]

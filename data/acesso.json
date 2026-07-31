@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "nome": "Jeremias",
+      "usuario": "jeremias",
+      "senha": "123456",
+      "papel": "Administrador",
+      "token": "bethesda-jeremias-2026"
+    },
+    {
+      "nome": "Nadine",
+      "usuario": "nadine",
+      "senha": "Nad!2026",
+      "papel": "Leitor",
+      "token": "bethesda-nadine-2026"
+    },
+    {
+      "nome": "Fanuel",
+      "usuario": "fanuel",
+      "senha": "Fan!2026",
+      "papel": "Leitor",
+      "token": "bethesda-fanuel-2026"
+    },
+    {
+      "nome": "Diego",
+      "usuario": "diego",
+      "senha": "Die!2026",
+      "papel": "Leitor",
+      "token": "bethesda-diego-2026"
+    },
+    {
+      "nome": "Manu",
+      "usuario": "manu",
+      "senha": "Man!2026",
+      "papel": "Leitor",
+      "token": "bethesda-manu-2026"
+    },
+    {
+      "nome": "Samuel",
+      "usuario": "samuel",
+      "senha": "Sam!2026",
+      "papel": "Leitor",
+      "token": "bethesda-samuel-2026"
+    },
+    {
+      "nome": "Eder",
+      "usuario": "eder",
+      "senha": "Ede!2026",
+      "papel": "Leitor",
+      "token": "bethesda-eder-2026"
+    },
+    {
+      "nome": "Henrique",
+      "usuario": "henrique",
+      "senha": "Hen!2026",
+      "papel": "Leitor",
+      "token": "bethesda-henrique-2026"
+    },
+    {
+      "nome": "Gabriel",
+      "usuario": "gabriel",
+      "senha": "Gab!2026",
+      "papel": "Leitor",
+      "token": "bethesda-gabriel-2026"
+    },
+    {
+      "nome": "Neemias",
+      "usuario": "neemias",
+      "senha": "Nee!2026",
+      "papel": "Leitor",
+      "token": "bethesda-neemias-2026"
+    },
+    {
+      "nome": "Deumar",
+      "usuario": "deumar",
+      "senha": "Deu!2026",
+      "papel": "Leitor",
+      "token": "bethesda-deumar-2026"
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+[
+  {
+    "id": "fe",
+    "titulo": "Fé que vence o impossível",
+    "categoria": "Doutrinário",
+    "referencia": "Hebreus 11:1-6",
+    "destaque": "A fé bíblica confia antes de ver.",
+    "resumo": "Um estudo sobre como a fé transforma a maneira de crer, obedecer e perseverar diante do invisível.",
+    "contexto": "Hebreus 11 apresenta uma galeria de testemunhas que viveram movidas por confiança no caráter de Deus.",
+    "objetivo": "Fortalecer a convicção de que a fé cristã é resposta obediente à revelação divina.",
+    "versiculosChave": [
+      "Hebreus 11:1",
+      "Romanos 10:17",
+      "2 Coríntios 5:7"
+    ],
+    "pontos": [
+      {
+        "titulo": "A fé enxerga o invisível",
+        "texto": "Ela se apoia na fidelidade de Deus e não apenas nas circunstâncias."
+      },
+      {
+        "titulo": "A fé obedece",
+        "texto": "Quem crê de verdade dá passos concretos na direção da promessa."
+      },
+      {
+        "titulo": "A fé persevera",
+        "texto": "Mesmo quando a resposta demora, a confiança continua firme."
+      }
+    ],
+    "aplicacoes": [
+      "Ore antes de decidir.",
+      "Obedeça mesmo sem controlar todos os detalhes.",
+      "Lembre-se das promessas de Deus quando a esperança diminuir."
+    ],
+    "perguntas": [
+      "Em que área tenho tentado viver por vista e não por fé?",
+      "Que promessa bíblica preciso segurar nesta temporada?"
+    ],
+    "oracao": "Senhor, aumenta a minha fé e ensina-me a confiar em Ti acima das circunstâncias.",
+    "personagens": [
+      "Abraão",
+      "Sara",
+      "Noé"
+    ],
+    "palavrasChave": [
+      "confiança",
+      "obediência",
+      "perseverança"
+    ],
+    "leituraComplementar": [
+      "Gênesis 12:1-4",
+      "Tiago 2:17"
+    ]
+  },
+  {
+    "id": "graca",
+    "titulo": "Graça que salva e transforma",
+    "categoria": "Doutrinário",
+    "referencia": "Efésios 2:8-10",
+    "destaque": "A graça não apenas perdoa; ela refaz a vida.",
+    "resumo": "A salvação é dom imerecido e a vida cristã é o fruto visível dessa graça operante.",
+    "contexto": "Paulo contrasta a condição humana com a intervenção graciosa de Deus em Cristo.",
+    "objetivo": "Mostrar que a graça salvadora conduz a boas obras preparadas por Deus.",
+    "versiculosChave": [
+      "Efésios 2:8-10",
+      "Romanos 3:24",
+      "Tito 2:11-14"
+    ],
+    "pontos": [
+      {
+        "titulo": "A origem da salvação",
+        "texto": "Não vem das obras humanas, mas da misericórdia divina."
+      },
+      {
+        "titulo": "A natureza da graça",
+        "texto": "É presente, favor e poder para viver de maneira nova."
+      },
+      {
+        "titulo": "O propósito da graça",
+        "texto": "Somos chamados para uma vida produtiva e cheia de boas obras."
+      }
+    ],
+    "aplicacoes": [
+      "Descansar na obra completa de Cristo.",
+      "Servir sem buscar mérito próprio.",
+      "Viver como obra-prima de Deus."
+    ],
+    "perguntas": [
+      "Estou tentando merecer o que já recebi pela graça?",
+      "Minhas obras refletem a transformação que Deus fez em mim?"
+    ],
+    "oracao": "Pai, obrigado pela graça que me salvou e me chama a uma nova vida.",
+    "personagens": [
+      "Paulo"
+    ],
+    "palavrasChave": [
+      "salvação",
+      "boas obras",
+      "transformação"
+    ],
+    "leituraComplementar": [
+      "Romanos 5:1-2",
+      "2 Coríntios 5:17"
+    ]
+  },
+  {
+    "id": "pastor",
+    "titulo": "O Senhor é meu Pastor",
+    "categoria": "Devocional",
+    "referencia": "Salmos 23",
+    "destaque": "Descanso, direção e cuidado em meio às vales da vida.",
+    "resumo": "Um salmo de confiança que revela a suficiência de Deus em todas as estações.",
+    "contexto": "Davi compara a relação com Deus ao cuidado terno de um pastor por suas ovelhas.",
+    "objetivo": "Conduzir o leitor ao descanso espiritual e à confiança prática no cuidado de Deus.",
+    "versiculosChave": [
+      "Salmos 23:1",
+      "João 10:11",
+      "Filipenses 4:19"
+    ],
+    "pontos": [
+      {
+        "titulo": "Provisão",
+        "texto": "Nada faltará ao coração que descansa no Pastor."
+      },
+      {
+        "titulo": "Direção",
+        "texto": "Ele guia por veredas de justiça por amor do Seu nome."
+      },
+      {
+        "titulo": "Presença",
+        "texto": "Mesmo no vale, a presença divina gera segurança."
+      }
+    ],
+    "aplicacoes": [
+      "Separe tempo diário para descansar na presença de Deus.",
+      "Não interprete o vale como ausência do Pastor.",
+      "Confie na direção divina para decisões pequenas e grandes."
+    ],
+    "perguntas": [
+      "Em que área preciso descansar mais?",
+      "Estou ouvindo a voz do Pastor?"
+    ],
+    "oracao": "Senhor, guia-me, sustenta-me e faz-me descansar em Ti hoje.",
+    "personagens": [
+      "Davi"
+    ],
+    "palavrasChave": [
+      "cuidado",
+      "descanso",
+      "direção"
+    ],
+    "leituraComplementar": [
+      "Isaías 40:11",
+      "João 10:27"
+    ]
+  },
+  {
+    "id": "espirito",
+    "titulo": "Espírito Santo: poder para testemunhar",
+    "categoria": "Espírito Santo",
+    "referencia": "Atos 1:8",
+    "destaque": "O Espírito capacita a Igreja para missão, santidade e ousadia.",
+    "resumo": "Um estudo sobre a pessoa e a obra do Espírito Santo na vida do crente e da comunidade cristã.",
+    "contexto": "Antes da ascensão, Jesus promete poder para o testemunho. Em Atos, essa promessa se cumpre com sinais e transformação.",
+    "objetivo": "Evidenciar que a vida cheia do Espírito é indispensável para missão e santificação.",
+    "versiculosChave": [
+      "Atos 1:8",
+      "João 14:26",
+      "Gálatas 5:22-23"
+    ],
+    "pontos": [
+      {
+        "titulo": "Capacitação",
+        "texto": "O Espírito dá poder para testemunhar com ousadia."
+      },
+      {
+        "titulo": "Santificação",
+        "texto": "Ele produz fruto que reflete o caráter de Cristo."
+      },
+      {
+        "titulo": "Direção",
+        "texto": "O Consolador ensina, lembra e guia a Igreja."
+      }
+    ],
+    "aplicacoes": [
+      "Busque ser cheio do Espírito todos os dias.",
+      "Permita que o fruto preceda os dons.",
+      "Ore por ousadia e amor para servir."
+    ],
+    "perguntas": [
+      "Minha vida é mais marcada por poder ou por fruto?",
+      "Tenho dependido do Espírito em minhas decisões?"
+    ],
+    "oracao": "Espírito Santo, enche-me, guia-me e torna-me testemunha fiel de Jesus.",
+    "personagens": [
+      "Pedro",
+      "João",
+      "Paulo"
+    ],
+    "palavrasChave": [
+      "poder",
+      "fruto",
+      "testemunho"
+    ],
+    "leituraComplementar": [
+      "Atos 2:1-4",
+      "Romanos 8:14"
+    ]
+  },
+  {
+    "id": "joao17",
+    "titulo": "A oração sacerdotal de Jesus",
+    "categoria": "Expositivo",
+    "referencia": "João 17",
+    "destaque": "Jesus ora por glória, unidade e santificação da Igreja.",
+    "resumo": "Uma leitura devocional e expositiva de João 17, revelando o coração de Cristo por Seus discípulos.",
+    "contexto": "Na véspera da cruz, Jesus abre Seu coração em oração ao Pai.",
+    "objetivo": "Mostrar a centralidade de Cristo, a unidade da Igreja e a santidade do povo de Deus.",
+    "versiculosChave": [
+      "João 17:1-3",
+      "João 17:17",
+      "João 17:20-23"
+    ],
+    "pontos": [
+      {
+        "titulo": "Cristo busca a glória do Pai",
+        "texto": "Sua missão sempre aponta para a glória divina."
+      },
+      {
+        "titulo": "Cristo ora pela santificação",
+        "texto": "A verdade da Palavra é o instrumento de consagração."
+      },
+      {
+        "titulo": "Cristo ora pela unidade",
+        "texto": "A Igreja deve refletir o amor e a comunhão do Deus triúno."
+      }
+    ],
+    "aplicacoes": [
+      "Ore pela unidade da igreja local.",
+      "Valorize a Palavra como meio de santificação.",
+      "Aprenda a orar antes de agir."
+    ],
+    "perguntas": [
+      "Minha oração reflete o coração de Jesus?",
+      "Tenho priorizado unidade e santidade?"
+    ],
+    "oracao": "Pai, santifica-me na tua verdade e faz-me viver em unidade com teu povo.",
+    "personagens": [
+      "Jesus"
+    ],
+    "palavrasChave": [
+      "oração",
+      "unidade",
+      "santificação"
+    ],
+    "leituraComplementar": [
+      "João 13:1",
+      "João 16:33"
+    ]
+  },
+  {
+    "id": "ansiedade",
+    "titulo": "Paz em meio à ansiedade",
+    "categoria": "Devocional",
+    "referencia": "Filipenses 4:6-7",
+    "destaque": "A oração troca ansiedade por paz.",
+    "resumo": "Um devocional para tempos de pressão emocional, ensinando a descansar em Deus.",
+    "contexto": "Paulo escreve da prisão e aponta uma paz que excede o entendimento humano.",
+    "objetivo": "Conduzir o coração à prática da oração com gratidão.",
+    "versiculosChave": [
+      "Filipenses 4:6-7",
+      "1 Pedro 5:7",
+      "João 14:27"
+    ],
+    "pontos": [
+      {
+        "titulo": "Substitua preocupação por oração",
+        "texto": "Leve tudo a Deus em vez de carregar sozinho."
+      },
+      {
+        "titulo": "Ore com gratidão",
+        "texto": "A gratidão reposiciona a alma diante da fidelidade de Deus."
+      },
+      {
+        "titulo": "A paz guarda",
+        "texto": "A paz divina age como sentinela no coração e na mente."
+      }
+    ],
+    "aplicacoes": [
+      "Escreva hoje três motivos de gratidão.",
+      "Transforme preocupações em pedidos diante de Deus.",
+      "Leia este texto em voz alta antes de dormir."
+    ],
+    "perguntas": [
+      "Que ansiedade posso entregar ao Senhor agora?",
+      "Como a gratidão pode mudar minha perspectiva hoje?"
+    ],
+    "oracao": "Senhor, entrego minhas ansiedades e recebo a tua paz.",
+    "personagens": [
+      "Paulo"
+    ],
+    "palavrasChave": [
+      "paz",
+      "ansiedade",
+      "oração"
+    ],
+    "leituraComplementar": [
+      "Mateus 6:25-34",
+      "Colossenses 3:15"
+    ]
+  },
+  {
+    "id": "chamado",
+    "titulo": "Chamado e propósito",
+    "categoria": "Liderança",
+    "referencia": "Jeremias 1:4-10",
+    "destaque": "Deus chama antes de capacitar.",
+    "resumo": "Jeremias descobre que o chamado de Deus precede o medo e supera a sensação de incapacidade.",
+    "contexto": "O profeta recebe sua vocação em meio à fragilidade da juventude e à grandeza da missão.",
+    "objetivo": "Encorajar o leitor a responder ao chamado de Deus com obediência.",
+    "versiculosChave": [
+      "Jeremias 1:5",
+      "Jeremias 1:7-8",
+      "Isaías 6:8"
+    ],
+    "pontos": [
+      {
+        "titulo": "Chamado antes do nascimento",
+        "texto": "Deus conhece e separa o servo antes da performance humana."
+      },
+      {
+        "titulo": "Capacitação divina",
+        "texto": "A presença do Senhor remove o medo e sustenta a missão."
+      },
+      {
+        "titulo": "Palavras que edificam",
+        "texto": "O profeta fala o que Deus manda, não o que as pessoas querem ouvir."
+      }
+    ],
+    "aplicacoes": [
+      "Não despreze sua fase atual.",
+      "Responda ao chamado com fé.",
+      "Deixe Deus redefinir sua identidade."
+    ],
+    "perguntas": [
+      "Tenho resistido ao chamado de Deus por medo?",
+      "Que missão Deus já colocou diante de mim?"
+    ],
+    "oracao": "Senhor, aqui estou; usa a minha vida para a tua glória.",
+    "personagens": [
+      "Jeremias",
+      "Isaías"
+    ],
+    "palavrasChave": [
+      "chamado",
+      "propósito",
+      "coragem"
+    ],
+    "leituraComplementar": [
+      "Êxodo 3:10-12",
+      "2 Timóteo 1:7"
+    ]
+  },
+  {
+    "id": "santidade",
+    "titulo": "Santidade no cotidiano",
+    "categoria": "Santidade",
+    "referencia": "Romanos 12:1-2",
+    "destaque": "A transformação começa na mente e se expressa no corpo.",
+    "resumo": "Um estudo sobre consagração prática e renovação da mente à luz do evangelho.",
+    "contexto": "Paulo passa da doutrina para a prática, convidando os crentes à entrega total.",
+    "objetivo": "Levar o leitor a viver como culto vivo a Deus.",
+    "versiculosChave": [
+      "Romanos 12:1-2",
+      "1 Pedro 1:15-16",
+      "Hebreus 12:14"
+    ],
+    "pontos": [
+      {
+        "titulo": "Culto vivo",
+        "texto": "A entrega diária é uma forma de adoração."
+      },
+      {
+        "titulo": "Mente renovada",
+        "texto": "A transformação começa com novas convicções e novos pensamentos."
+      },
+      {
+        "titulo": "Discernimento espiritual",
+        "texto": "A vontade de Deus se torna clara quando somos moldados pela Palavra."
+      }
+    ],
+    "aplicacoes": [
+      "Revise hábitos que precisam ser rendidos a Cristo.",
+      "Substitua padrões do mundo por hábitos espirituais.",
+      "Pratique escolhas que honrem a Deus."
+    ],
+    "perguntas": [
+      "O que ainda resiste à transformação de Deus?",
+      "Minha mente está sendo renovada pela Palavra?"
+    ],
+    "oracao": "Pai, transforma minha mente e meu estilo de vida para refletir Cristo.",
+    "personagens": [
+      "Paulo"
+    ],
+    "palavrasChave": [
+      "consagração",
+      "transformação",
+      "mente"
+    ],
+    "leituraComplementar": [
+      "Gálatas 2:20",
+      "Efésios 4:22-24"
+    ]
+  },
+  {
+    "id": "esperanca",
+    "titulo": "Esperança que não decepciona",
+    "categoria": "Esperança",
+    "referencia": "Romanos 8:28-39",
+    "destaque": "Nada pode separar o crente do amor de Deus.",
+    "resumo": "Uma meditação sobre soberania divina, amor eterno e segurança em Cristo.",
+    "contexto": "Paulo eleva o coração da igreja para além do sofrimento presente.",
+    "objetivo": "Reforçar a certeza de que Deus está trabalhando mesmo quando não vemos.",
+    "versiculosChave": [
+      "Romanos 8:28",
+      "Romanos 8:38-39",
+      "Lamentações 3:21-24"
+    ],
+    "pontos": [
+      {
+        "titulo": "Deus governa",
+        "texto": "Todas as coisas cooperam sob a mão soberana do Senhor."
+      },
+      {
+        "titulo": "Deus sustenta",
+        "texto": "A aflição não é maior que a graça que recebe o crente."
+      },
+      {
+        "titulo": "Deus preserva",
+        "texto": "Nada pode separar-nos do amor de Cristo."
+      }
+    ],
+    "aplicacoes": [
+      "Olhe para o presente à luz da eternidade.",
+      "Lembre-se de que Deus não perdeu o controle.",
+      "Declare esperança em meio à adversidade."
+    ],
+    "perguntas": [
+      "O que hoje ameaça minha esperança?",
+      "Como posso lembrar a soberania de Deus nesta situação?"
+    ],
+    "oracao": "Senhor, fortalece minha esperança e firma meu coração no teu amor.",
+    "personagens": [
+      "Paulo"
+    ],
+    "palavrasChave": [
+      "esperança",
+      "amor",
+      "soberania"
+    ],
+    "leituraComplementar": [
+      "Salmos 46:1-3",
+      "2 Coríntios 4:16-18"
+    ]
+  },
+  {
+    "id": "fruto",
+    "titulo": "O fruto do Espírito",
+    "categoria": "Discipulado",
+    "referencia": "Gálatas 5:22-23",
+    "destaque": "O caráter de Cristo aparece na rotina de quem anda no Espírito.",
+    "resumo": "Um estudo sobre como o Espírito produz maturidade prática e relacionamento saudável.",
+    "contexto": "Paulo contrasta as obras da carne com o fruto produzido pelo Espírito.",
+    "objetivo": "Levar o leitor a desejar mais do fruto do que dos dons visíveis.",
+    "versiculosChave": [
+      "Gálatas 5:22-23",
+      "João 15:5",
+      "Efésios 5:9"
+    ],
+    "pontos": [
+      {
+        "titulo": "O fruto é singular",
+        "texto": "As virtudes formam um caráter integrado, não fragmentado."
+      },
+      {
+        "titulo": "O fruto vem do Espírito",
+        "texto": "Não é esforço humano isolado, mas dependência diária."
+      },
+      {
+        "titulo": "O fruto abençoa relações",
+        "texto": "Amor, paciência e mansidão mudam ambientes e famílias."
+      }
+    ],
+    "aplicacoes": [
+      "Avalie qual fruto precisa crescer mais hoje.",
+      "Ande em dependência do Espírito.",
+      "Pratique gentileza em casa e no trabalho."
+    ],
+    "perguntas": [
+      "Minha vida evidencia o fruto do Espírito?",
+      "Qual fruto precisa ser cultivado com mais intencionalidade?"
+    ],
+    "oracao": "Espírito Santo, forma em mim o caráter de Cristo.",
+    "personagens": [
+      "Paulo"
+    ],
+    "palavrasChave": [
+      "caráter",
+      "maturidade",
+      "dependência"
+    ],
+    "leituraComplementar": [
+      "João 15:1-8",
+      "Colossenses 3:12-14"
+    ]
+  }
+,
+  {
+    "id": "joao316",
+    "titulo": "João 3:16 — O coração do evangelho",
+    "categoria": "Evangelho",
+    "referencia": "João 3:16-21",
+    "destaque": "O amor de Deus aparece com clareza máxima na entrega do Filho.",
+    "resumo": "Estudo completo sobre o evangelho, fé, salvação, luz e condenação à luz de João 3:16-21.",
+    "contexto": "Jesus conversa com Nicodemos e revela a necessidade de novo nascimento e a oferta graciosa de salvação.",
+    "objetivo": "Aproximar o leitor do centro da mensagem cristã com foco em salvação e resposta de fé.",
+    "versiculosChave": [
+      "João 3:16",
+      "João 3:17",
+      "João 3:18",
+      "João 3:19"
+    ],
+    "pontos": [
+      {
+        "titulo": "O amor que entrega",
+        "texto": "Deus não apenas fala de amor; Ele oferece o Filho.",
+        "aplicacao": "A cruz é a demonstração concreta do amor divino."
+      },
+      {
+        "titulo": "A fé que recebe",
+        "texto": "Crer não é apenas concordar; é descansar em Cristo.",
+        "aplicacao": "A resposta correta ao evangelho é fé obediente."
+      },
+      {
+        "titulo": "A luz que confronta",
+        "texto": "A verdade de Cristo revela o coração humano.",
+        "aplicacao": "A luz de Deus expõe o pecado para gerar arrependimento."
+      }
+    ],
+    "aplicacoes": [
+      "Leia o texto em oração e destaque cada verbo de ação de Deus.",
+      "Observe a relação entre amor, fé, condenação e vida eterna.",
+      "Compartilhe o evangelho com alguém usando João 3:16-21."
+    ],
+    "perguntas": [
+      "Como o amor de Deus é descrito no texto?",
+      "Que diferença há entre crer e não crer em Cristo?"
+    ],
+    "oracao": "Senhor, obrigado pelo amor revelado em Cristo. Faz-me viver na luz e anunciar a salvação com ousadia.",
+    "personagens": [
+      "Jesus",
+      "Nicodemos"
+    ],
+    "palavrasChave": [
+      "amor",
+      "salvação",
+      "fé",
+      "luz",
+      "novo nascimento"
+    ],
+    "leituraComplementar": [
+      "Romanos 5:8",
+      "1 João 4:9-10",
+      "Efésios 2:8-10"
+    ]
+  },
+  {
+    "id": "espirito-consolador",
+    "titulo": "O Espírito Santo como Consolador e Poder",
+    "categoria": "Pneumatologia",
+    "referencia": "João 14:16-17,26; Atos 1:8",
+    "destaque": "O Espírito Santo consola, ensina, convence e capacita.",
+    "resumo": "Estudo profundo sobre a pessoa e a obra do Espírito Santo com ênfase na promessa de Jesus e no poder para testemunhar.",
+    "contexto": "Jesus prepara os discípulos para a ausência física e a presença permanente do Consolador.",
+    "objetivo": "Explicar com clareza a atuação do Espírito Santo na vida da igreja.",
+    "versiculosChave": [
+      "João 14:16-17",
+      "João 14:26",
+      "Atos 1:8",
+      "Romanos 8:14-16"
+    ],
+    "pontos": [
+      {
+        "titulo": "Promessa do Consolador",
+        "texto": "Jesus não deixa a igreja órfã.",
+        "aplicacao": "A presença do Espírito garante companhia e direção."
+      },
+      {
+        "titulo": "Ensino e lembrança",
+        "texto": "O Espírito conduz à verdade e traz à memória as palavras de Cristo.",
+        "aplicacao": "O discipulado nasce da dependência do Espírito."
+      },
+      {
+        "titulo": "Poder para testemunhar",
+        "texto": "A missão depende da capacitação do alto.",
+        "aplicacao": "A igreja não evangeliza apenas com esforço humano."
+      }
+    ],
+    "aplicacoes": [
+      "Busque diariamente a direção do Espírito antes de agir.",
+      "Leia os textos em paralelo com Romanos 8 para ver a obra do Consolador.",
+      "Pratique testemunho com ousadia e humildade."
+    ],
+    "perguntas": [
+      "O que Jesus prometeu sobre o Consolador?",
+      "Como o poder do Espírito se manifesta em Atos 1:8?"
+    ],
+    "oracao": "Espírito Santo, guia-me na verdade, consola meu coração e capacita-me para viver e testemunhar de Cristo.",
+    "personagens": [
+      "Jesus",
+      "Discípulos"
+    ],
+    "palavrasChave": [
+      "espírito santo",
+      "consolador",
+      "poder",
+      "testemunho"
+    ],
+    "leituraComplementar": [
+      "Romanos 8:14-16",
+      "1 Coríntios 12:4-11",
+      "Efésios 1:13-14"
+    ]
+  },
+  {
+    "id": "joao17",
+    "titulo": "João 17 — A oração sacerdotal de Jesus",
+    "categoria": "Evangelho",
+    "referencia": "João 17",
+    "destaque": "A oração de Jesus revela unidade, glória e missão.",
+    "resumo": "Estudo completo de João 17 com foco na glorificação do Filho, na intercessão pelos discípulos e na unidade da igreja.",
+    "contexto": "A última oração pública de Jesus prepara os discípulos para a cruz e para a missão pós-ressurreição.",
+    "objetivo": "Mostrar a profundidade da intercessão de Cristo e suas implicações para a igreja.",
+    "versiculosChave": [
+      "João 17:1",
+      "João 17:11",
+      "João 17:17",
+      "João 17:21"
+    ],
+    "pontos": [
+      {
+        "titulo": "Glorificação do Filho",
+        "texto": "Jesus ora para que o Pai seja glorificado no cumprimento da missão.",
+        "aplicacao": "A glória de Deus deve orientar toda liderança cristã."
+      },
+      {
+        "titulo": "Proteção e unidade",
+        "texto": "Cristo intercede pela preservação e unidade dos discípulos.",
+        "aplicacao": "A unidade da igreja é fruto de oração e verdade."
+      },
+      {
+        "titulo": "Santificação na verdade",
+        "texto": "A Palavra de Deus santifica o povo de Deus.",
+        "aplicacao": "Santidade nasce da submissão contínua à Escritura."
+      }
+    ],
+    "aplicacoes": [
+      "Leia João 17 em voz alta e observe os pedidos de Jesus.",
+      "Transforme cada seção em um ponto de sermão ou estudo devocional.",
+      "Ore por unidade, santificação e missão."
+    ],
+    "perguntas": [
+      "O que Jesus pediu ao Pai em favor dos discípulos?",
+      "Como a verdade produz unidade na igreja?"
+    ],
+    "oracao": "Pai, que a oração de Jesus molde minha vida, minha igreja e meu ministério segundo a tua vontade.",
+    "personagens": [
+      "Jesus",
+      "Discípulos",
+      "Pai"
+    ],
+    "palavrasChave": [
+      "oração",
+      "glória",
+      "unidade",
+      "santificação"
+    ],
+    "leituraComplementar": [
+      "João 13:31-35",
+      "Efésios 4:1-6",
+      "1 Pedro 1:15-16"
+    ]
+  }
+
+]

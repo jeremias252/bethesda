@@ -1,0 +1,658 @@
+[
+  {
+    "id": 1,
+    "nome": "Adão",
+    "titulo": "Primeiro homem",
+    "nascimento": "Éden",
+    "epoca": "Antes da queda",
+    "idade": "930 anos",
+    "versiculo": "Gênesis 1:27",
+    "descricao": "Adão foi criado por Deus para viver em comunhão com o Criador e exercer mordomia sobre a criação.",
+    "pai": null,
+    "mae": null,
+    "esposa": [
+      "Eva"
+    ],
+    "filhos": [
+      "Caim",
+      "Abel",
+      "Sete"
+    ],
+    "familia": {
+      "esposa": [
+        "Eva"
+      ],
+      "filhos": [
+        "Caim",
+        "Abel",
+        "Sete"
+      ]
+    },
+    "principaisEventos": [
+      "Criação",
+      "Jardim do Éden",
+      "Queda",
+      "Promessa da redenção"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Eva",
+    "titulo": "Mãe de todos os viventes",
+    "nascimento": "Éden",
+    "epoca": "Antes da queda",
+    "idade": "930 anos (trad.)",
+    "versiculo": "Gênesis 2:22",
+    "descricao": "Eva participa da história da origem da humanidade e da necessidade da graça de Deus.",
+    "pai": null,
+    "mae": null,
+    "esposa": [
+      "Adão"
+    ],
+    "filhos": [
+      "Caim",
+      "Abel",
+      "Sete"
+    ],
+    "familia": {
+      "esposa": [
+        "Adão"
+      ],
+      "filhos": [
+        "Caim",
+        "Abel",
+        "Sete"
+      ]
+    },
+    "principaisEventos": [
+      "Criação",
+      "Jardim do Éden",
+      "Queda",
+      "Primeira família"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Noé",
+    "titulo": "Homem justo em sua geração",
+    "nascimento": "Não informado",
+    "epoca": "c. 2500 a.C.",
+    "idade": "950 anos",
+    "versiculo": "Gênesis 6:9",
+    "descricao": "Noé foi preservado por Deus para sobreviver ao dilúvio e recomeçar a humanidade sob a aliança divina.",
+    "pai": "Lameque",
+    "mae": null,
+    "esposa": [],
+    "filhos": [
+      "Sem",
+      "Cam",
+      "Jafé"
+    ],
+    "familia": {
+      "pai": "Lameque",
+      "esposa": [],
+      "filhos": [
+        "Sem",
+        "Cam",
+        "Jafé"
+      ]
+    },
+    "principaisEventos": [
+      "Construção da arca",
+      "Dilúvio",
+      "Arco da aliança",
+      "Nova aliança"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Abraão",
+    "titulo": "Pai da Fé",
+    "nascimento": "Ur dos Caldeus",
+    "epoca": "2000 a.C.",
+    "idade": "175 anos",
+    "versiculo": "Gênesis 12:1",
+    "descricao": "Abraão foi chamado por Deus para deixar sua terra e tornar-se pai de uma grande nação.",
+    "pai": "Terá",
+    "mae": null,
+    "esposa": [
+      "Sara",
+      "Hagar"
+    ],
+    "filhos": [
+      "Ismael",
+      "Isaque"
+    ],
+    "familia": {
+      "pai": "Terá",
+      "esposa": [
+        "Sara",
+        "Hagar"
+      ],
+      "filhos": [
+        "Ismael",
+        "Isaque"
+      ]
+    },
+    "principaisEventos": [
+      "Chamado de Deus",
+      "Aliança",
+      "Nascimento de Isaque",
+      "Sacrifício de Isaque"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Sara",
+    "titulo": "Mãe da promessa",
+    "nascimento": "Ur dos Caldeus",
+    "epoca": "2000 a.C.",
+    "idade": "127 anos",
+    "versiculo": "Gênesis 21:1",
+    "descricao": "Sara testemunhou a fidelidade de Deus ao receber o filho prometido em idade avançada.",
+    "pai": null,
+    "mae": null,
+    "esposa": [
+      "Abraão"
+    ],
+    "filhos": [
+      "Isaque"
+    ],
+    "familia": {
+      "esposa": [
+        "Abraão"
+      ],
+      "filhos": [
+        "Isaque"
+      ]
+    },
+    "principaisEventos": [
+      "Promessa de Deus",
+      "Riso transformado em fé",
+      "Nascimento de Isaque"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Moisés",
+    "titulo": "Libertador de Israel",
+    "nascimento": "Egito",
+    "epoca": "1526 a.C.",
+    "idade": "120 anos",
+    "versiculo": "Êxodo 3:10",
+    "descricao": "Moisés libertou Israel do Egito e recebeu a Lei no Monte Sinai.",
+    "pai": "Anrão",
+    "mae": "Joquebede",
+    "esposa": [
+      "Zípora"
+    ],
+    "filhos": [
+      "Gerson",
+      "Eliezer"
+    ],
+    "familia": {
+      "pai": "Anrão",
+      "mae": "Joquebede",
+      "irmaos": [
+        "Arão",
+        "Miriã"
+      ],
+      "esposa": [
+        "Zípora"
+      ],
+      "filhos": [
+        "Gerson",
+        "Eliezer"
+      ]
+    },
+    "principaisEventos": [
+      "Sarça ardente",
+      "10 pragas",
+      "Mar Vermelho",
+      "Monte Sinai"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Davi",
+    "titulo": "Homem segundo o coração de Deus",
+    "nascimento": "Belém",
+    "epoca": "c. 1040 a.C.",
+    "idade": "70 anos",
+    "versiculo": "1 Samuel 16:13",
+    "descricao": "Davi foi pastor, guerreiro, rei e salmista, apontando para o Rei perfeito.",
+    "pai": "Jessé",
+    "mae": null,
+    "esposa": [
+      "Mical",
+      "Bate-Seba"
+    ],
+    "filhos": [
+      "Salomão",
+      "Absalão"
+    ],
+    "familia": {
+      "pai": "Jessé",
+      "esposa": [
+        "Mical",
+        "Bate-Seba"
+      ],
+      "filhos": [
+        "Salomão",
+        "Absalão"
+      ]
+    },
+    "principaisEventos": [
+      "Unção em Belém",
+      "Golias",
+      "Reinado em Jerusalém",
+      "Aliança davídica"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Daniel",
+    "titulo": "Homem de oração e integridade",
+    "nascimento": "Judá",
+    "epoca": "c. 605 a.C.",
+    "idade": "Prov. 80+",
+    "versiculo": "Daniel 6:10",
+    "descricao": "Daniel permaneceu fiel a Deus em meio à cultura babilônica e ao governo pagão.",
+    "pai": null,
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {},
+    "principaisEventos": [
+      "Cova dos leões",
+      "Sonhos e visões",
+      "Fidelidade no exílio"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Ester",
+    "titulo": "Rainha que intercedeu pelo povo",
+    "nascimento": "Império Persa",
+    "epoca": "c. 480 a.C.",
+    "idade": "Não informado",
+    "versiculo": "Ester 4:14",
+    "descricao": "Ester foi posicionada por Deus para salvar seu povo em tempo de crise.",
+    "pai": "Abiail",
+    "mae": null,
+    "esposa": [
+      "Assuero"
+    ],
+    "filhos": [],
+    "familia": {
+      "pai": "Abiail",
+      "esposa": [
+        "Assuero"
+      ]
+    },
+    "principaisEventos": [
+      "Escolha como rainha",
+      "Jejum e coragem",
+      "Livramento do povo"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Pedro",
+    "titulo": "Apóstolo da Igreja",
+    "nascimento": "Betsaida",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "Mateus 16:18",
+    "descricao": "Pedro passou por processo, restauração e fortalecimento para liderar e pregar com poder.",
+    "pai": "Jonas",
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {
+      "pai": "Jonas",
+      "irmãos": [
+        "André"
+      ]
+    },
+    "principaisEventos": [
+      "Chamado de Jesus",
+      "Confissão de fé",
+      "Pentecostes",
+      "Restauração"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Paulo",
+    "titulo": "Apóstolo dos gentios",
+    "nascimento": "Tarso",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "Atos 9:15",
+    "descricao": "Paulo levou o evangelho às nações, sistematizando a doutrina cristã em suas cartas.",
+    "pai": null,
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {},
+    "principaisEventos": [
+      "Conversão em Damasco",
+      "Viagens missionárias",
+      "Prisões e cartas",
+      "Martírio"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Maria",
+    "titulo": "Serva do Senhor",
+    "nascimento": "Nazaré",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "Lucas 1:38",
+    "descricao": "Maria respondeu com humildade ao chamado de Deus para ser a mãe do Salvador.",
+    "pai": null,
+    "mae": null,
+    "esposa": [
+      "José"
+    ],
+    "filhos": [
+      "Jesus"
+    ],
+    "familia": {
+      "esposa": [
+        "José"
+      ],
+      "filhos": [
+        "Jesus"
+      ]
+    },
+    "principaisEventos": [
+      "Anunciação",
+      "Nascimento de Jesus",
+      "Presença no ministério"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "José",
+    "titulo": "Justo e obediente",
+    "nascimento": "Nazaré",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "Mateus 1:24",
+    "descricao": "José protegeu a família de Jesus com silêncio, obediência e fé.",
+    "pai": null,
+    "mae": null,
+    "esposa": [
+      "Maria"
+    ],
+    "filhos": [
+      "Jesus"
+    ],
+    "familia": {
+      "esposa": [
+        "Maria"
+      ],
+      "filhos": [
+        "Jesus"
+      ]
+    },
+    "principaisEventos": [
+      "Sonho de direção",
+      "Proteção em Belém",
+      "Cuidado com a família"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Jesus",
+    "titulo": "Cristo, Filho de Deus",
+    "nascimento": "Belém",
+    "epoca": "1º século",
+    "idade": "Eterno",
+    "versiculo": "João 1:14",
+    "descricao": "Jesus é o centro de toda a Escritura, revelando o Pai e consumando a redenção.",
+    "pai": null,
+    "mae": "Maria",
+    "esposa": [],
+    "filhos": [],
+    "familia": {
+      "mae": "Maria"
+    },
+    "principaisEventos": [
+      "Nascimento",
+      "Ministério",
+      "Cruz",
+      "Ressurreição",
+      "Ascensão"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "João",
+    "titulo": "Discípulo do amor",
+    "nascimento": "Betsaida",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "João 13:23",
+    "descricao": "João testemunhou de perto a glória de Cristo e escreveu para fortalecer a fé da igreja.",
+    "pai": "Zebedeu",
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {
+      "pai": "Zebedeu",
+      "irmaos": [
+        "Tiago"
+      ]
+    },
+    "principaisEventos": [
+      "Chamado de Jesus",
+      "Transfiguração",
+      "Cruz",
+      "Patmos"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Arão",
+    "titulo": "Primeiro sumo sacerdote",
+    "nascimento": "Egito",
+    "epoca": "1526 a.C.",
+    "idade": "123 anos",
+    "versiculo": "Êxodo 4:14",
+    "descricao": "Arão serviu como porta-voz de Moisés e mediador no culto de Israel.",
+    "pai": "Anrão",
+    "mae": "Joquebede",
+    "esposa": [
+      "Elisheba"
+    ],
+    "filhos": [
+      "Nadabe",
+      "Abiú",
+      "Eleazar",
+      "Itamar"
+    ],
+    "familia": {
+      "pai": "Anrão",
+      "mae": "Joquebede",
+      "esposa": [
+        "Elisheba"
+      ],
+      "filhos": [
+        "Nadabe",
+        "Abiú",
+        "Eleazar",
+        "Itamar"
+      ]
+    },
+    "principaisEventos": [
+      "Sarça ardente",
+      "Fala diante de Faraó",
+      "Sacerdócio",
+      "Bênção sacerdotal"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Miriã",
+    "titulo": "Profetisa de Israel",
+    "nascimento": "Egito",
+    "epoca": "1526 a.C.",
+    "idade": "Não informado",
+    "versiculo": "Êxodo 15:20",
+    "descricao": "Miriã cantou a vitória de Deus após a travessia do mar e participou da liderança de Israel.",
+    "pai": "Anrão",
+    "mae": "Joquebede",
+    "esposa": [],
+    "filhos": [],
+    "familia": {
+      "pai": "Anrão",
+      "mae": "Joquebede",
+      "irmaos": [
+        "Moisés",
+        "Arão"
+      ]
+    },
+    "principaisEventos": [
+      "Cântico do mar",
+      "Liderança feminina",
+      "Disciplina e restauração"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Josué",
+    "titulo": "Sucessor de Moisés",
+    "nascimento": "Egito",
+    "epoca": "c. 1400 a.C.",
+    "idade": "110 anos",
+    "versiculo": "Josué 1:9",
+    "descricao": "Josué conduziu Israel na conquista de Canaã com coragem e fidelidade à Palavra.",
+    "pai": null,
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {},
+    "principaisEventos": [
+      "Conquista de Jericó",
+      "Renovação da aliança",
+      "Distribuição da terra"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Ezequiel",
+    "titulo": "Profeta do exílio",
+    "nascimento": "Jerusalém",
+    "epoca": "c. 593 a.C.",
+    "idade": "Não informado",
+    "versiculo": "Ezequiel 36:26",
+    "descricao": "Ezequiel anunciou o juízo e também a promessa de um novo coração dado por Deus.",
+    "pai": "Buzi",
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {
+      "pai": "Buzi"
+    },
+    "principaisEventos": [
+      "Visão da glória",
+      "Vale de ossos secos",
+      "Novo coração"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Assuero",
+    "titulo": "Rei da Pérsia",
+    "nascimento": "Império Persa",
+    "epoca": "c. 483 a.C.",
+    "idade": "Não informado",
+    "versiculo": "Ester 1:1",
+    "descricao": "Assuero aparece no livro de Ester como o rei sob cujo reinado Deus preservou o Seu povo.",
+    "pai": null,
+    "mae": null,
+    "esposa": [
+      "Ester"
+    ],
+    "filhos": [],
+    "familia": {
+      "esposa": [
+        "Ester"
+      ]
+    },
+    "principaisEventos": [
+      "Banquete real",
+      "Escolha de Ester",
+      "Livramento do povo"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Barnabé",
+    "titulo": "Filho da consolação",
+    "nascimento": "Chipre",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "Atos 4:36",
+    "descricao": "Barnabé encorajou a igreja e caminhou ao lado de Paulo no avanço missionário.",
+    "pai": null,
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {},
+    "principaisEventos": [
+      "Encorajamento da igreja",
+      "Viagem missionária",
+      "Abertura aos gentios"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Silas",
+    "titulo": "Cooperador do evangelho",
+    "nascimento": "Não informado",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "Atos 15:40",
+    "descricao": "Silas serviu com fidelidade em viagens missionárias e no fortalecimento das igrejas.",
+    "pai": null,
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {},
+    "principaisEventos": [
+      "Concílio de Jerusalém",
+      "Viagens com Paulo",
+      "Louvor na prisão"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "André",
+    "titulo": "Discípulo que trouxe pessoas a Jesus",
+    "nascimento": "Betsaida",
+    "epoca": "1º século",
+    "idade": "Não informado",
+    "versiculo": "João 1:41",
+    "descricao": "André foi um discípulo que apresentou outros a Cristo e abriu caminhos para o ministério de Jesus.",
+    "pai": "Jonas",
+    "mae": null,
+    "esposa": [],
+    "filhos": [],
+    "familia": {
+      "pai": "Jonas",
+      "irmãos": [
+        "Pedro"
+      ]
+    },
+    "principaisEventos": [
+      "Chamado de Jesus",
+      "Apresentação de Pedro",
+      "Seguimento fiel"
+    ]
+  }
+]

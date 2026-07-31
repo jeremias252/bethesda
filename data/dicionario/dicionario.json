@@ -1,0 +1,191 @@
+{
+  "fé": {
+    "titulo": "Fé",
+    "descricao": "Confiança obediente em Deus e naquilo que Ele prometeu, mesmo antes de ver o resultado.",
+    "referencias": [
+      "Hebreus 11:1",
+      "Romanos 10:17",
+      "Efésios 2:8-9"
+    ]
+  },
+  "graça": {
+    "titulo": "Graça",
+    "descricao": "Favor imerecido de Deus que alcança o pecador e o capacita a viver em novidade de vida.",
+    "referencias": [
+      "Efésios 2:8-10",
+      "Romanos 3:24",
+      "Tito 2:11-12"
+    ]
+  },
+  "salvação": {
+    "titulo": "Salvação",
+    "descricao": "Obra de Deus em Cristo que perdoa, reconcilia e transforma o ser humano.",
+    "referencias": [
+      "João 3:16",
+      "Atos 4:12",
+      "Romanos 10:9-10"
+    ]
+  },
+  "oração": {
+    "titulo": "Oração",
+    "descricao": "Comunhão viva com Deus, onde apresentamos pedidos, gratidão, adoração e rendição.",
+    "referencias": [
+      "Mateus 6:6",
+      "Filipenses 4:6-7",
+      "1 Tessalonicenses 5:17"
+    ]
+  },
+  "adoração": {
+    "titulo": "Adoração",
+    "descricao": "Resposta integral ao caráter de Deus com reverência, entrega e louvor.",
+    "referencias": [
+      "João 4:23-24",
+      "Salmos 95:6",
+      "Romanos 12:1"
+    ]
+  },
+  "arrependimento": {
+    "titulo": "Arrependimento",
+    "descricao": "Mudança de mente e direção que nos leva de volta ao caminho de Deus.",
+    "referencias": [
+      "Atos 3:19",
+      "Marcos 1:15",
+      "2 Coríntios 7:10"
+    ]
+  },
+  "santidade": {
+    "titulo": "Santidade",
+    "descricao": "Separação para Deus e transformação diária conforme a imagem de Cristo.",
+    "referencias": [
+      "1 Pedro 1:15-16",
+      "Hebreus 12:14",
+      "Romanos 12:1-2"
+    ]
+  },
+  "sabedoria": {
+    "titulo": "Sabedoria",
+    "descricao": "Capacidade de aplicar a verdade de Deus com discernimento e temor do Senhor.",
+    "referencias": [
+      "Provérbios 3:5-6",
+      "Tiago 1:5",
+      "Provérbios 9:10"
+    ]
+  },
+  "esperança": {
+    "titulo": "Esperança",
+    "descricao": "Certeza firme de que Deus cumprirá Suas promessas e sustentará o crente.",
+    "referencias": [
+      "Romanos 15:13",
+      "Lamentações 3:21-24",
+      "Hebreus 6:19"
+    ]
+  },
+  "perdão": {
+    "titulo": "Perdão",
+    "descricao": "Ato de liberar a dívida moral à luz da misericórdia recebida em Cristo.",
+    "referencias": [
+      "Efésios 4:32",
+      "Colossenses 3:13",
+      "1 João 1:9"
+    ]
+  },
+  "discipulado": {
+    "titulo": "Discipulado",
+    "descricao": "Processo de seguir Jesus, aprender com Ele e reproduzir Sua vida no cotidiano.",
+    "referencias": [
+      "Lucas 9:23",
+      "Mateus 28:19-20",
+      "João 13:34-35"
+    ]
+  },
+  "evangelho": {
+    "titulo": "Evangelho",
+    "descricao": "Boa notícia de que Jesus morreu e ressuscitou para salvar pecadores.",
+    "referencias": [
+      "1 Coríntios 15:1-4",
+      "Romanos 1:16",
+      "Marcos 1:15"
+    ]
+  },
+  "espírito santo": {
+    "titulo": "Espírito Santo",
+    "descricao": "A presença pessoal de Deus que consola, convence, capacita e santifica a Igreja.",
+    "referencias": [
+      "João 14:26",
+      "Atos 1:8",
+      "Gálatas 5:22-23"
+    ]
+  },
+  "aliança": {
+    "titulo": "Aliança",
+    "descricao": "Compromisso santo estabelecido por Deus com Seu povo, fundamentado em promessas e fidelidade.",
+    "referencias": [
+      "Gênesis 15:6",
+      "Êxodo 19:5-6",
+      "Hebreus 8:6-13"
+    ]
+  },
+  "unção": {
+    "titulo": "Unção",
+    "descricao": "Capacitação concedida por Deus para serviço, consagração e testemunho.",
+    "referencias": [
+      "1 Samuel 16:13",
+      "Isaías 61:1",
+      "1 João 2:20"
+    ]
+  },
+  "perseverança": {
+    "titulo": "Perseverança",
+    "descricao": "Firmeza na fé mesmo sob pressão, tribulação e espera prolongada.",
+    "referencias": [
+      "Romanos 5:3-5",
+      "Tiago 1:2-4",
+      "Hebreus 10:36"
+    ]
+  },
+  "humildade": {
+    "titulo": "Humildade",
+    "descricao": "Postura de dependência de Deus que serve sem buscar glória própria.",
+    "referencias": [
+      "Filipenses 2:3-5",
+      "Tiago 4:6",
+      "1 Pedro 5:5-6"
+    ]
+  },
+  "misericórdia": {
+    "titulo": "Misericórdia",
+    "descricao": "Compaixão ativa de Deus que se inclina para socorrer o necessitado.",
+    "referencias": [
+      "Lamentações 3:22-23",
+      "Mateus 9:13",
+      "Tiago 2:13"
+    ]
+  },
+  "louvor": {
+    "titulo": "Louvor",
+    "descricao": "Declaração pública da grandeza de Deus com gratidão e alegria.",
+    "referencias": [
+      "Salmos 150:6",
+      "Hebreus 13:15",
+      "Atos 16:25"
+    ]
+  },
+  "fruto do espírito": {
+    "titulo": "Fruto do Espírito",
+    "descricao": "Características produzidas pelo Espírito na vida do crente.",
+    "referencias": [
+      "Gálatas 5:22-23",
+      "João 15:5",
+      "Efésios 5:9"
+    ]
+  },
+  "temor do senhor": {
+    "titulo": "Temor do Senhor",
+    "descricao": "Reverência profunda que conduz à obediência e à sabedoria.",
+    "referencias": [
+      "Provérbios 1:7",
+      "Provérbios 9:10",
+      "Eclesiastes 12:13"
+    ]
+  }
+}
