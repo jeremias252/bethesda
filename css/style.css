@@ -2291,3 +2291,12 @@ body.authenticated .login-screen{
         width:100%;
     }
 }
+
+.login-developer {
+    margin-top: 18px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #b58150;
+    letter-spacing: 0.4px;
+}
